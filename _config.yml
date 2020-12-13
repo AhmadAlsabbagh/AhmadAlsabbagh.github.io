@@ -1,0 +1,43 @@
+# Site settings
+name: Ahmad Alsabbagh
+title: Ahmad Alsabbagh | Software Engineer
+description: design-oriented software engineer focused on creating scalable projects
+url: https://github.com/AhmadAlsabbagh
+baseurl: ''
+email: ahmad.alsabbagh@mail.utoronto.ca
+cover: https://ahmadalsabbagh.github.io/img/og.png
+logo: https://ahmadalsabbagh.github.io/img/emojis/technologist.png
+resume: https://ahmadalsabbagh.github.io/resume.pdf
+social:
+  - title: email
+    url: mailto:ahmad.alsabbagh@mail.utoronto.ca
+  - title: twitter
+    url: https://twitter.com/ahmadsomething
+  - title: instagram
+    url: https://www.instagram.com/ahmadalsabbagh_/
+  - title: github
+    url: https://github.com/AhmadAlsabbagh
+  - title: linkedin
+    url: https://www.linkedin.com/in/AhmadAlsabbagh/
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap
