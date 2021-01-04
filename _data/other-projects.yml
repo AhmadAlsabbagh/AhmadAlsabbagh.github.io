@@ -1,6 +1,6 @@
 - name: Project COVID - Helping local businesses
-  url: https://ahmadalsabbagh.github.io/#
-  code: https://ahmadalsabbagh.github.io/#
+  url: https://github.com/AhmadAlsabbagh
+  code: https://github.com/AhmadAlsabbagh
   description: A Google Chrome extension that suggests local businesses based on your e-commerce browsing activity.
   used:
     - thing: JavaScript
@@ -9,8 +9,8 @@
     - thing: Google Maps API
 
 - name: League of Legends Performance Tracker
-  url: https://ahmadalsabbagh.github.io/#
-  code: https://ahmadalsabbagh.github.io/#
+  url: https://github.com/AhmadAlsabbagh
+  code: https://github.com/AhmadAlsabbagh
   description: A personal statistics web page to display important details about in-game performance using Data Visualization.
   used:
     - thing: JavaScript
