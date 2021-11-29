@@ -1,6 +1,7 @@
 languages:
   - item: Java
   - item: Python
+  - item: Ruby
   - item: JavaScript
   - item: C/C++
   - item: Dart
@@ -9,20 +10,19 @@ languages:
   - item: SQL
 
 frameworks:
-  - item: React
+  - item: Ruby on Rails
   - item: Flutter
-  - item: Firebase
+  - item: React
   - item: Flask
   - item: Django
 
 tools:
   - item: Git & Github
+  - item: Docker
+  - item: Docker
+  - item: Amazon Web Services (AWS)
+  - item: CircleCI
+  - item: Jenkins
+  - item: MySQL
   - item: MongoDB
   - item: PostgreSQL
-  - item: Node
-  - item: Docker
-  - item: Amazon Web Services
-  - item: Google Cloud Platform
-  - item: Jenkins
-  
-
