@@ -19,7 +19,6 @@ frameworks:
 tools:
   - item: Git & Github
   - item: Docker
-  - item: Docker
   - item: Amazon Web Services (AWS)
   - item: CircleCI
   - item: Jenkins
