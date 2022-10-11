@@ -1,27 +1,44 @@
 languages:
   - item: Java
+  - item: Kotlin
   - item: Python
+  - item: Go
   - item: Ruby
   - item: JavaScript
-  - item: C/C++
+  - item: TypeScript
+  - item: C
+  - item: C++
+  - item: C#
+  - item: PHP
+  - item: Hack
   - item: Dart
   - item: HTML
   - item: CSS
   - item: SQL
 
 frameworks:
-  - item: Ruby on Rails
-  - item: Flutter
   - item: React
+  - item: Express
+  - item: Angular
+  - item: Node
+  - item: Flutter
+  - item: Ruby on Rails
   - item: Flask
   - item: Django
+  - item: RXJava
+  - item: libvirt
 
 tools:
-  - item: Git & Github
-  - item: Docker
   - item: Amazon Web Services (AWS)
   - item: CircleCI
   - item: Jenkins
+  - item: NoSQL
   - item: MySQL
   - item: MongoDB
   - item: PostgreSQL
+  - item: Git & Github
+  - item: Docker
+  - item: Kubernetes
+  - item: Intune
+  - item: Chef
+
