@@ -1,11 +1,10 @@
 languages:
-  - item: Java
-  - item: Kotlin
-  - item: Python
-  - item: Go
   - item: Ruby
+  - item: Java
+  - item: Python
   - item: JavaScript
   - item: TypeScript
+  - item: Go
   - item: C
   - item: C++
   - item: C#
@@ -17,16 +16,15 @@ languages:
   - item: SQL
 
 frameworks:
+  - item: Ruby on Rails
   - item: React
   - item: Express
+  - item: Next
   - item: Angular
   - item: Node
   - item: Flutter
-  - item: Ruby on Rails
   - item: Flask
   - item: Django
-  - item: RXJava
-  - item: libvirt
 
 tools:
   - item: Amazon Web Services (AWS)
