@@ -1,17 +1,22 @@
+- company: Coalition
+  url: https://www.coalitioninc.com/en-ca
+  time: May 2024 - Current
+  position: Software Engineer I
+
 - company: Flipp
   url: https://flipp.com/
-  time: May 2023 - Current
+  time: May 2023 - May 2024
   position: Software Engineer I
 
 - company: Meta (Facebook)
   url: https://about.facebook.com/
   time: June 2022 - Aug 2022 (3 months)
-  position: Systems Engineer Intern
+  position: Software Engineer Intern
 
 - company: Flipp
   url: https://flipp.com/
   time: May 2021 - Apr 2022 (1 year)
-  position: Associate Software Engineer
+  position: Software Engineer
 
 - company: University of Toronto
   url: https://www.utoronto.ca/
@@ -21,4 +26,4 @@
 - company: SOTI
   url: https://soti.net/
   time: Sep 2019 - Jun 2020 (10 months)
-  position: Software Developer
+  position: Software Engineer

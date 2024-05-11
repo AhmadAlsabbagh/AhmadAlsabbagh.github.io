@@ -3,7 +3,8 @@ languages:
   - item: Python
   - item: Java
   - item: JavaScript (Node.js)
-  - item: Go
+  - item: Go (Golang)
+  - item: Hack (Hacklang)
   - item: TypeScript
   - item: SQL
 
